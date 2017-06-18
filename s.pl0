@@ -1,0 +1,6 @@
+var a,b;
+begin
+a:=1;b:=5;
+if a>b then write(a)
+es write(b)
+end.
